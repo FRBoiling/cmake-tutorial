@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/rendu/repositories/cmake-tutorial/build",
-  "command": "/usr/bin/g++    -g   -o CMakeFiles/cmake-tutorial.dir/main.cpp.o -c /home/rendu/repositories/cmake-tutorial/main.cpp",
-  "file": "/home/rendu/repositories/cmake-tutorial/main.cpp"
-}
-]

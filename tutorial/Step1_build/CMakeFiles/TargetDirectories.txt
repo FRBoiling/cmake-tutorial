@@ -1,3 +1,0 @@
-/home/rendu/repositories/cmake-tutorial/tutorial/Step1_build/CMakeFiles/rebuild_cache.dir
-/home/rendu/repositories/cmake-tutorial/tutorial/Step1_build/CMakeFiles/edit_cache.dir
-/home/rendu/repositories/cmake-tutorial/tutorial/Step1_build/CMakeFiles/Tutorial.dir
