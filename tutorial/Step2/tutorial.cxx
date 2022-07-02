@@ -7,12 +7,13 @@
 
 // should we include the MathFunctions header?
 #ifdef USE_MYMATH
-#  include "MathFunctions.h"
+#include "MathFunctions.h"
 #endif
 
-int main(int argc, char* argv[])
+int main(int argc, char *argv[])
 {
-  if (argc < 2) {
+  if (argc < 2)
+  {
     // report version
     std::cout << argv[0] << " Version " << Tutorial_VERSION_MAJOR << "."
               << Tutorial_VERSION_MINOR << std::endl;
@@ -30,7 +31,6 @@ int main(int argc, char* argv[])
   const double outputValue = sqrt(inputValue);
 #endif
 
-  std::cout << "The square root of " << inputValue << " is " << outputValue
-            << std::endl;
+  std::cout << "The square root of " << inputValue << " is " << outputValue << std::endl;
   return 0;
 }
